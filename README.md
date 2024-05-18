@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ufarwa3
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
